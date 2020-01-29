@@ -28,7 +28,7 @@ LoginnewwindowPage lpwind;
 		lpwind.getLoginbox().sendKeys("shubhamdewan230495@gmail.com");
 		lpwind.getNextbutton().click();
 		lpwind.getPasswordbox().sendKeys("Radhaswamig@230495");
-		
+		System.out.println("chilllllllllllllll");
 		
 		
 	}
